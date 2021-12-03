@@ -1,3 +1,5 @@
+export default null 
+
 type UserID = string
 type UserData = {
     ID: UserID,
